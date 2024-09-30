@@ -3,3 +3,5 @@ This problem is based on a 4x4 grid board, and has 16! possible state. Half of t
 That's exactly where the difference between informed and uninformed algorithms is shown, as can be observed in the output (.png) files.
 
 I've used the Linear Conflict heuristic function, which I found as pseudo code (which I then had to fix) and implement it in my code.
+
+More info about the problem can be found here: https://en.wikipedia.org/wiki/15_puzzle.
