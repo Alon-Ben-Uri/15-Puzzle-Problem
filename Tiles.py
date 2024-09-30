@@ -2,7 +2,7 @@ import copy
 import sys
 import queue
 
-# Alon Almog, 319044566. Introduction to AI. Assignment 11.
+# Alon Almog. Introduction to AI. Assignment 11.
 
 # This program solves the 15-tile problem. Given a solvable starting state, it runs the problem using the
 # algorithms bfs, iddfs, gbfs and a-star, printing the solution path to the goal state and the number of expanded node
